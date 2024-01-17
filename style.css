@@ -21,6 +21,7 @@ input, textarea {
     background-color: #610000;
     outline: none;
     display: block;
+    color: #F07272;
 }
 
 .psw::placeholder {
@@ -48,6 +49,7 @@ input, textarea {
     background-color: #292828;
     outline: none;
     display: block;
+    color: #F9FE03;
 }
 
 .text::placeholder {
