@@ -1,3 +1,7 @@
+input, textarea {
+    padding: 0 15px;
+}
+
 .email {
     width: 315px;
     height: 45px;
@@ -8,9 +12,6 @@
     display: block;
 }
 
-.email::placeholder{
-    padding: 0 10px;
-}
 
 .psw {
     width: 467px;
@@ -24,7 +25,6 @@
 
 .psw::placeholder {
     color: #F07272;
-    padding: 0 10px;
 }
 
 .number {
@@ -38,7 +38,6 @@
 
 .number::placeholder {
     color: #A8AB00;
-    padding: 0 10px;
 }
 
 .text {
@@ -53,5 +52,4 @@
 
 .text::placeholder {
    color: #F9FE03; 
-   padding: 0 10px;
 }
